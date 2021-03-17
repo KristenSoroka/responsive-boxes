@@ -27,8 +27,15 @@ body {
 	Write your solution here!
    ========================== */
 
+.box-red {
+	width: 100%;
+}
 
-   /* kristen soroka */
-   /* testing */
+.box-green {
+	width: 50%;
+}
 
-   /* another test */
+.box-blue {
+	/* width: 25%; */
+	width: 50%;
+}
